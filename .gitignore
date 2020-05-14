@@ -1,12 +1,9 @@
-MANIFEST.MF
-pom.properties
-
-# *.java 파일이 실행했을때 컴파일된 파일 
+target/
+# *.java 파일이 실행했을때 컴파일된 파일
 *.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-target/
 
 # Package Files #
 *.jar
