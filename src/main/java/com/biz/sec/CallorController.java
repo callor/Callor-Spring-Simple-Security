@@ -1,5 +1,8 @@
 package com.biz.sec;
 
+/*
+ * Simple2에서 변경
+ */
 public class CallorController {
 
 	
